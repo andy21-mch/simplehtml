@@ -1,0 +1,27 @@
+.navbar {
+   display: flex; 
+   justify-content: flex-end;
+   background-color: rgb(13, 13, 115);
+}
+
+.navbar a {
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+}
+
+a:hover {
+    background-color: rgb(14, 14, 42);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#contact-button {
+   border: 3px rgb(16, 16, 74) solid;
+    padding: 10px;
+    border-radius: 7px;
+}

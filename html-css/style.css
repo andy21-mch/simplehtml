@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: rgb(30, 104, 129);
+}
+
+p {
+    border: 1px solid gray;
+    padding: 10px;
+    width: 80%;
+}
+
+#conclusion {
+    color: rgb(168, 22, 22);
+}
+
+#conclusion-paragraph {
+    color: rgb(36, 34, 102);
+}
+
+
+div p  #calltoaction{
+    color: white;
+}

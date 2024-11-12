@@ -1,0 +1,45 @@
+body {
+    margin-top: 0;
+    background-color: azure;
+}
+
+#header{
+    margin-top: 0;
+    background-color: blue;
+    color: white;
+    border: solid blue;;
+    border-radius: 5%;
+}
+#header li, a {
+    color: white;
+    list-style-type: none;
+    margin: 1%;
+}
+
+#hero {
+    background-image: url('images/andy.png');
+    height: 500px;
+    background-repeat: cover;
+    text-align: center;
+    color: white;
+    
+}
+
+#about {
+    margin-top: 20px;
+    height: 300px;
+    border: solid gray;
+    border-radius: 5%;
+}
+
+#contact {
+    margin-top: 10px;
+    height: 300px;
+    border: solid gray;
+    border-radius: 5%;
+}
+#contact input, textarea {
+    width: 90%;
+    margin: 2%;
+}
+
